@@ -1,5 +1,6 @@
 # C shell
 A shell written in C to perform various tasks like echo,pipelining ,redirection ,job handlind,signalling etc
+This was create in collaboration with Harshdeep Singh @h4rshsenpai 
 ## FILES
 ### .sh.c
 contains the main shell loop and takes input from commandline to 
